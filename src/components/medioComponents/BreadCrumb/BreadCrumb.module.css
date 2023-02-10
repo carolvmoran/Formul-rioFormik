@@ -1,0 +1,15 @@
+.ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  column-gap: 9.75px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #c4c4c4;
+}
+.ul li {
+  display: flex;
+  align-items: center;
+}
